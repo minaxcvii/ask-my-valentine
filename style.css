@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Loved+by+the+King&display=swap');
+
+body{
+  font-family: 'Loved by the King', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  background-color: #85FFBD;
+  /*background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);*/
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+
+}
+
+div{
+  margin:auto;
+  
+  padding: 10px 15px;
+  
+  border-radius:20px;
+  text-align:center;
+}
+
+#question{
+  width: 300px;
+  background-color: #32de84;
+  color:white;
+}
+
+#oo{
+  position:absolute;
+  width: 100px;
+  background-color: #186049;
+  color:white;
+  top: 100px;
+  right: 33.33%;
+  cursor: pointer;
+}
+
+#No{
+  cursor: pointer;
+  position:absolute;
+  top: 100px;
+  left:33.33%;
+  width: 100px;
+  background-color: #BA0021;
+  color:white;
+  
+}
